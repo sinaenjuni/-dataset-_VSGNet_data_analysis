@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712c2407-14cb-42e6-931f-80cc945a92a6" name="Default Changelist" comment="VCOCO and HICO dataset parse">
-      <change afterPath="$PROJECT_DIR$/file_count.ipynb" afterDir="false" />
+    <list default="true" id="712c2407-14cb-42e6-931f-80cc945a92a6" name="Default Changelist" comment="2021.04.02">
+      <change afterPath="$PROJECT_DIR$/data_read.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_analysis.ipynb" afterDir="false" />
     </list>
@@ -49,7 +49,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Face-semgmention" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +71,12 @@
       <workItem from="1617183172320" duration="5968000" />
       <workItem from="1617272188732" duration="8749000" />
       <workItem from="1617285095406" duration="1785000" />
-      <workItem from="1617286893850" duration="11329000" />
+      <workItem from="1617286893850" duration="11346000" />
+      <workItem from="1617324458361" duration="10000" />
+      <workItem from="1617525205761" duration="13000" />
+      <workItem from="1617538664373" duration="13000" />
+      <workItem from="1617589236533" duration="595000" />
+      <workItem from="1617591674957" duration="18536000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1617003491252</created>
@@ -94,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617095534190</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2021.04.02">
+      <created>1617324437048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617324437048</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="VCOCO and HICO dataset parse" />
-    <option name="LAST_COMMIT_MESSAGE" value="VCOCO and HICO dataset parse" />
+    <MESSAGE value="2021.04.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.04.02" />
   </component>
 </project>
